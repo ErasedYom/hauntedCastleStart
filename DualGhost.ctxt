@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DualGhost
+comment0.text=\r\n\ Class\ DualGhost\r\n\ A\ dual\ ghost\ in\ the\ castle.\r\n\ \r\n\ @author\ Seyed\ Omar\ Moulana\r\n\ @version\ 18/2/2020\r\n
+comment1.params=loc\ desc
+comment1.target=DualGhost(Room,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ initialising\ location\ and\ description.\r\n\ Pre-condition\:\ location\ not\ null.\r\n\ Pre-condition\:\ description\ not\ null.\r\n
+numComments=2
